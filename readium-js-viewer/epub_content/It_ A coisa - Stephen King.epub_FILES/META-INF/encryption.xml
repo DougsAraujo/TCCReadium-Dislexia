@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<encryption xmlns="urn:oasis:names:tc:opendocument:xmlns:container" xmlns:enc="http://www.w3.org/2001/04/xmlenc#">
+    <enc:EncryptedData>
+        <enc:EncryptionMethod Algorithm="http://ns.adobe.com/pdf/enc#RC"/>
+        <enc:CipherData>
+            <enc:CipherReference URI="OEBPS/Fonts/00007.ttf"/>
+        </enc:CipherData>
+    </enc:EncryptedData>
+    <enc:EncryptedData>
+        <enc:EncryptionMethod Algorithm="http://ns.adobe.com/pdf/enc#RC"/>
+        <enc:CipherData>
+            <enc:CipherReference URI="OEBPS/Fonts/00004.ttf"/>
+        </enc:CipherData>
+    </enc:EncryptedData>
+    <enc:EncryptedData>
+        <enc:EncryptionMethod Algorithm="http://ns.adobe.com/pdf/enc#RC"/>
+        <enc:CipherData>
+            <enc:CipherReference URI="OEBPS/Fonts/00006.ttf"/>
+        </enc:CipherData>
+    </enc:EncryptedData>
+    <enc:EncryptedData>
+        <enc:EncryptionMethod Algorithm="http://ns.adobe.com/pdf/enc#RC"/>
+        <enc:CipherData>
+            <enc:CipherReference URI="OEBPS/Fonts/00005.ttf"/>
+        </enc:CipherData>
+    </enc:EncryptedData>
+    <enc:EncryptedData>
+        <enc:EncryptionMethod Algorithm="http://ns.adobe.com/pdf/enc#RC"/>
+        <enc:CipherData>
+            <enc:CipherReference URI="OEBPS/Fonts/00003.ttf"/>
+        </enc:CipherData>
+    </enc:EncryptedData>
+    <enc:EncryptedData>
+        <enc:EncryptionMethod Algorithm="http://ns.adobe.com/pdf/enc#RC"/>
+        <enc:CipherData>
+            <enc:CipherReference URI="OEBPS/Fonts/00009.ttf"/>
+        </enc:CipherData>
+    </enc:EncryptedData>
+    <enc:EncryptedData>
+        <enc:EncryptionMethod Algorithm="http://ns.adobe.com/pdf/enc#RC"/>
+        <enc:CipherData>
+            <enc:CipherReference URI="OEBPS/Fonts/00008.ttf"/>
+        </enc:CipherData>
+    </enc:EncryptedData>
+</encryption>

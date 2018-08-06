@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="por">
+  <head>
+    <meta content="urn:uuid:233a5428-3e13-48d1-a8a7-456ef7fd1771" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>It: A coisa</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Capa</text>
+      </navLabel>
+      <content src="Text/part0000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Folha de Rosto</text>
+      </navLabel>
+      <content src="Text/part0001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="2">
+      <navLabel>
+        <text>Créditos</text>
+      </navLabel>
+      <content src="Text/part0002.html#IT__A_Coisa_Epub"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="3">
+      <navLabel>
+        <text>Dedicatória</text>
+      </navLabel>
+      <content src="Text/part0003.html#IT__A_Coisa_Epub"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="4">
+      <navLabel>
+        <text>Epígrafe</text>
+      </navLabel>
+      <content src="Text/part0004.html#IT__A_Coisa_Epub"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="3">
+      <navLabel>
+        <text>Sumário</text>
+      </navLabel>
+      <content src="Text/part0005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="6">
+      <navLabel>
+        <text>PARTE 1 – A SOMBRA ANTES</text>
+      </navLabel>
+      <content src="Text/part0006.html#IT__A_Coisa_Epub"/>
+      <navPoint class="chapter" id="num_8" playOrder="7">
+        <navLabel>
+          <text>Capítulo 1 – Depois da enchente (1957)</text>
+        </navLabel>
+        <content src="Text/part0007.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_9" playOrder="8">
+        <navLabel>
+          <text>Capítulo 2 – Depois do festival (1984)</text>
+        </navLabel>
+        <content src="Text/part0008.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_10" playOrder="4">
+        <navLabel>
+          <text>Capítulo 3 – Seis telefonemas (1985)</text>
+        </navLabel>
+        <content src="Text/part0009_split_000.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_11" playOrder="10">
+        <navLabel>
+          <text>DERRY: PRIMEIRO INTERLÚDIO</text>
+        </navLabel>
+        <content src="Text/part0010.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="11">
+      <navLabel>
+        <text>PARTE 2 – JUNHO DE 1958</text>
+      </navLabel>
+      <content src="Text/part0012.html#IT__A_Coisa_Epub"/>
+      <navPoint class="chapter" id="num_13" playOrder="12">
+        <navLabel>
+          <text>Capítulo 4 – Ben Hanscom sofre uma queda</text>
+        </navLabel>
+        <content src="Text/part0013.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_14" playOrder="13">
+        <navLabel>
+          <text>Capítulo 5 – Bill Denbrough vence o diabo (I)</text>
+        </navLabel>
+        <content src="Text/part0014.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_15" playOrder="14">
+        <navLabel>
+          <text>Capítulo 6 – Um dos desaparecidos: uma história do verão de 1958</text>
+        </navLabel>
+        <content src="Text/part0015.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_16" playOrder="15">
+        <navLabel>
+          <text>Capítulo 7 – A represa no Barrens</text>
+        </navLabel>
+        <content src="Text/part0016.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_17" playOrder="16">
+        <navLabel>
+          <text>Capítulo 8 – O quarto de Georgie e a casa na rua Neibolt</text>
+        </navLabel>
+        <content src="Text/part0017.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="17">
+        <navLabel>
+          <text>Capítulo 9 – Arrumação</text>
+        </navLabel>
+        <content src="Text/part0018.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_19" playOrder="18">
+        <navLabel>
+          <text>DERRY: SEGUNDO INTERLÚDIO</text>
+        </navLabel>
+        <content src="Text/part0019.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="19">
+      <navLabel>
+        <text>PARTE 3 – ADULTOS</text>
+      </navLabel>
+      <content src="Text/part0021.html#IT__A_Coisa_Epub"/>
+      <navPoint class="chapter" id="num_21" playOrder="20">
+        <navLabel>
+          <text>Capítulo 10 – O reencontro</text>
+        </navLabel>
+        <content src="Text/part0022.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_22" playOrder="21">
+        <navLabel>
+          <text>Capítulo 11 – Caminhadas</text>
+        </navLabel>
+        <content src="Text/part0023.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_23" playOrder="22">
+        <navLabel>
+          <text>Capítulo 12 – Três convidados inesperados</text>
+        </navLabel>
+        <content src="Text/part0024.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_24" playOrder="23">
+        <navLabel>
+          <text>DERRY: TERCEIRO INTERLÚDIO</text>
+        </navLabel>
+        <content src="Text/part0025.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="24">
+      <navLabel>
+        <text>PARTE 4 – JULHO DE 1958</text>
+      </navLabel>
+      <content src="Text/part0027.html#IT__A_Coisa_Epub"/>
+      <navPoint class="chapter" id="num_26" playOrder="25">
+        <navLabel>
+          <text>Capítulo 13 – A apocalíptica guerra de pedras</text>
+        </navLabel>
+        <content src="Text/part0028.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_27" playOrder="26">
+        <navLabel>
+          <text>Capítulo 14 – O álbum</text>
+        </navLabel>
+        <content src="Text/part0029.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_28" playOrder="27">
+        <navLabel>
+          <text>Capítulo 15 – O buraco de fumaça</text>
+        </navLabel>
+        <content src="Text/part0030.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_29" playOrder="28">
+        <navLabel>
+          <text>Capítulo 16 – A fratura ruim de Eddie</text>
+        </navLabel>
+        <content src="Text/part0031.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_30" playOrder="29">
+        <navLabel>
+          <text>Capítulo 17 – Mais um desaparecido: a morte de Patrick Hockstetter</text>
+        </navLabel>
+        <content src="Text/part0032.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_31" playOrder="30">
+        <navLabel>
+          <text>Capítulo 18 – O estilingue</text>
+        </navLabel>
+        <content src="Text/part0033.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_32" playOrder="31">
+        <navLabel>
+          <text>DERRY: QUARTO INTERLÚDIO</text>
+        </navLabel>
+        <content src="Text/part0034.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="32">
+      <navLabel>
+        <text>PARTE 5 – O RITUAL DE CHÜD</text>
+      </navLabel>
+      <content src="Text/part0036.html#IT__A_Coisa_Epub"/>
+      <navPoint class="chapter" id="num_34" playOrder="33">
+        <navLabel>
+          <text>Capítulo 19 – Nas vigílias da noite</text>
+        </navLabel>
+        <content src="Text/part0037.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_35" playOrder="34">
+        <navLabel>
+          <text>Capítulo 20 – O círculo se fecha</text>
+        </navLabel>
+        <content src="Text/part0038.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_36" playOrder="35">
+        <navLabel>
+          <text>Capítulo 21 – Debaixo da cidade</text>
+        </navLabel>
+        <content src="Text/part0039.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_37" playOrder="36">
+        <navLabel>
+          <text>Capítulo 22 – O ritual de Chüd</text>
+        </navLabel>
+        <content src="Text/part0040.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_38" playOrder="37">
+        <navLabel>
+          <text>Capítulo 23 – Para fora</text>
+        </navLabel>
+        <content src="Text/part0041.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_39" playOrder="38">
+        <navLabel>
+          <text>DERRY: ÚLTIMO INTERLÚDIO</text>
+        </navLabel>
+        <content src="Text/part0042.html#IT__A_Coisa_Epub"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="39">
+      <navLabel>
+        <text>EPÍLOGO – BILL DENBROUGH VENCE O DIABO (II)</text>
+      </navLabel>
+      <content src="Text/part0044.html#IT__A_Coisa_Epub"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_41" playOrder="40">
+      <navLabel>
+        <text>Aqui expresso meus agradecimentos</text>
+      </navLabel>
+      <content src="Text/part0046.html#IT__A_Coisa_Epub"/>
+    </navPoint>
+  </navMap>
+</ncx>

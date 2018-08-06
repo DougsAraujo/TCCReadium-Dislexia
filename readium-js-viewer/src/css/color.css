@@ -1,0 +1,34 @@
+#escolhas button {
+    padding: 12px;
+    border: 2px solid white;
+    	
+}
+
+#escolhas button:hover {
+    cursor: pointer;
+    border: 2px solid black;
+}
+
+#escolhasfundo button {
+    padding: 12px;
+    border: 2px solid white;
+}
+
+#escolhasfundo button:hover {
+    cursor: pointer;
+    border: 2px solid black;
+}
+
+
+#coloroverlay button {
+    padding: 12px;
+    border: 2px solid white;
+}
+
+#coloroverlay button:hover {
+    cursor: pointer;
+    border: 2px solid black;
+}
+
+
+

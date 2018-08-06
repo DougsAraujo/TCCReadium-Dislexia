@@ -1,0 +1,70 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Adobe Garamond Pro Bold";
+    font-style: normal;
+    font-weight: bold;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }
+@font-face {
+    font-family: "Adobe Garamond Pro";
+    font-style: italic;
+    font-weight: normal;
+    src: url(fonts/00003.ttf)
+    }
+@font-face {
+    font-family: "Adobe Garamond Pro";
+    font-style: oblique;
+    font-weight: normal;
+    src: url(fonts/00003.ttf)
+    }
+@font-face {
+    font-family: "Adobe Garamond Pro";
+    font-style: normal;
+    font-weight: normal;
+    src: url(fonts/00004.ttf)
+    }
+@font-face {
+    font-family: "Bod_OldFace_BE";
+    font-style: normal;
+    font-weight: normal;
+    src: url(fonts/00005.ttf)
+    }
+@font-face {
+    font-family: "BodoniOF_BE";
+    font-style: normal;
+    font-weight: normal;
+    src: url(fonts/00006.ttf)
+    }
+@font-face {
+    font-family: Gatineau;
+    font-style: italic;
+    font-weight: normal;
+    src: url(fonts/00007.ttf)
+    }
+@font-face {
+    font-family: Gatineau;
+    font-style: oblique;
+    font-weight: normal;
+    src: url(fonts/00007.ttf)
+    }
+@font-face {
+    font-family: Gatineau;
+    font-style: normal;
+    font-weight: normal;
+    src: url(fonts/00008.ttf)
+    }
+@font-face {
+    font-family: "Minion Pro";
+    font-style: normal;
+    font-weight: normal;
+    src: url(fonts/00009.ttf)
+    }
+@font-face {
+    font-family: "ZapfDingbats BT";
+    font-style: normal;
+    font-weight: normal;
+    src: url(styles/XXXXXXXXXXXXXXXX)
+    }

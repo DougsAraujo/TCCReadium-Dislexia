@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:identifier id="uuid_id" opf:scheme="uuid">urn:uuid:233a5428-3e13-48d1-a8a7-456ef7fd1771</dc:identifier>
+    <dc:publisher>Editora Objetiva</dc:publisher>
+    <dc:language>pt</dc:language>
+    <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+    <dc:title>It: A coisa</dc:title>
+    <dc:contributor opf:role="bkp">calibre (1.38.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="MOBI-ASIN">B00MEQSA4Q</dc:identifier>
+    <dc:identifier opf:scheme="calibre">urn:uuid:233a5428-3e13-48d1-a8a7-456ef7fd1771</dc:identifier>
+    <meta content="It: A coisa" name="calibre:title_sort" />
+    <meta content="2014-08-12T18:36:15.013000+00:00" name="calibre:timestamp" />
+    <meta name="cover" content="cover" />
+    <meta content="0.7.4" name="Sigil version" />
+    <dc:date opf:event="modification">2014-09-16</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg" />
+    <item href="Fonts/00003.ttf" id="id1" media-type="application/x-font-truetype" />
+    <item href="Fonts/00004.ttf" id="id2" media-type="application/x-font-truetype" />
+    <item href="Fonts/00005.ttf" id="id3" media-type="application/x-font-truetype" />
+    <item href="Fonts/00006.ttf" id="id4" media-type="application/x-font-truetype" />
+    <item href="Fonts/00007.ttf" id="id5" media-type="application/x-font-truetype" />
+    <item href="Fonts/00008.ttf" id="id6" media-type="application/x-font-truetype" />
+    <item href="Fonts/00009.ttf" id="id7" media-type="application/x-font-truetype" />
+    <item href="Images/00002.jpeg" id="id9" media-type="image/jpeg" />
+    <item href="Images/00010.jpeg" id="id10" media-type="image/jpeg" />
+    <item href="Images/00011.jpeg" id="id11" media-type="image/jpeg" />
+    <item href="Images/00012.jpeg" id="id12" media-type="image/jpeg" />
+    <item href="Images/00013.jpeg" id="id13" media-type="image/jpeg" />
+    <item href="Images/00014.jpeg" id="id14" media-type="image/jpeg" />
+    <item href="Images/00015.jpeg" id="id15" media-type="image/jpeg" />
+    <item href="Images/00016.jpeg" id="id16" media-type="image/jpeg" />
+    <item href="Images/00017.jpeg" id="id17" media-type="image/jpeg" />
+    <item href="Images/00018.jpeg" id="id18" media-type="image/jpeg" />
+    <item href="Images/00019.jpeg" id="id19" media-type="image/jpeg" />
+    <item href="Images/00020.jpeg" id="id20" media-type="image/jpeg" />
+    <item href="Images/00021.jpeg" id="id21" media-type="image/jpeg" />
+    <item href="Images/00022.jpeg" id="id22" media-type="image/jpeg" />
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css" />
+    <item href="Styles/page_styles1.css" id="page_css1" media-type="text/css" />
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
+    <item href="Text/part0000.html" id="id25" media-type="application/xhtml+xml" />
+    <item href="Text/part0001.html" id="id26" media-type="application/xhtml+xml" />
+    <item href="Text/part0002.html" id="id27" media-type="application/xhtml+xml" />
+    <item href="Text/part0003.html" id="id28" media-type="application/xhtml+xml" />
+    <item href="Text/part0004.html" id="id29" media-type="application/xhtml+xml" />
+    <item href="Text/part0005.html" id="id30" media-type="application/xhtml+xml" />
+    <item href="Text/part0006.html" id="id31" media-type="application/xhtml+xml" />
+    <item href="Text/part0007.html" id="id32" media-type="application/xhtml+xml" />
+    <item href="Text/part0008.html" id="id33" media-type="application/xhtml+xml" />
+    <item href="Text/part0009_split_000.html" id="id342" media-type="application/xhtml+xml" />
+    <item href="Text/part0009_split_001.html" id="id341" media-type="application/xhtml+xml" />
+    <item href="Text/part0010.html" id="id35" media-type="application/xhtml+xml" />
+    <item href="Text/part0011.html" id="id36" media-type="application/xhtml+xml" />
+    <item href="Text/part0012.html" id="id37" media-type="application/xhtml+xml" />
+    <item href="Text/part0013.html" id="id38" media-type="application/xhtml+xml" />
+    <item href="Text/part0014.html" id="id39" media-type="application/xhtml+xml" />
+    <item href="Text/part0015.html" id="id40" media-type="application/xhtml+xml" />
+    <item href="Text/part0016.html" id="id41" media-type="application/xhtml+xml" />
+    <item href="Text/part0017.html" id="id42" media-type="application/xhtml+xml" />
+    <item href="Text/part0018.html" id="id43" media-type="application/xhtml+xml" />
+    <item href="Text/part0019.html" id="id44" media-type="application/xhtml+xml" />
+    <item href="Text/part0020.html" id="id45" media-type="application/xhtml+xml" />
+    <item href="Text/part0021.html" id="id46" media-type="application/xhtml+xml" />
+    <item href="Text/part0022.html" id="id47" media-type="application/xhtml+xml" />
+    <item href="Text/part0023.html" id="id48" media-type="application/xhtml+xml" />
+    <item href="Text/part0024.html" id="id49" media-type="application/xhtml+xml" />
+    <item href="Text/part0025.html" id="id50" media-type="application/xhtml+xml" />
+    <item href="Text/part0026.html" id="id51" media-type="application/xhtml+xml" />
+    <item href="Text/part0027.html" id="id52" media-type="application/xhtml+xml" />
+    <item href="Text/part0028.html" id="id53" media-type="application/xhtml+xml" />
+    <item href="Text/part0029.html" id="id54" media-type="application/xhtml+xml" />
+    <item href="Text/part0030.html" id="id55" media-type="application/xhtml+xml" />
+    <item href="Text/part0031.html" id="id56" media-type="application/xhtml+xml" />
+    <item href="Text/part0032.html" id="id57" media-type="application/xhtml+xml" />
+    <item href="Text/part0033.html" id="id58" media-type="application/xhtml+xml" />
+    <item href="Text/part0034.html" id="id59" media-type="application/xhtml+xml" />
+    <item href="Text/part0035.html" id="id60" media-type="application/xhtml+xml" />
+    <item href="Text/part0036.html" id="id61" media-type="application/xhtml+xml" />
+    <item href="Text/part0037.html" id="id62" media-type="application/xhtml+xml" />
+    <item href="Text/part0038.html" id="id63" media-type="application/xhtml+xml" />
+    <item href="Text/part0039.html" id="id64" media-type="application/xhtml+xml" />
+    <item href="Text/part0040.html" id="id65" media-type="application/xhtml+xml" />
+    <item href="Text/part0041.html" id="id66" media-type="application/xhtml+xml" />
+    <item href="Text/part0042.html" id="id67" media-type="application/xhtml+xml" />
+    <item href="Text/part0043.html" id="id68" media-type="application/xhtml+xml" />
+    <item href="Text/part0044.html" id="id69" media-type="application/xhtml+xml" />
+    <item href="Text/part0045.html" id="id70" media-type="application/xhtml+xml" />
+    <item href="Text/part0046.html" id="id71" media-type="application/xhtml+xml" />
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/copyright_le.xhtml" id="copyright_le.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/logo.png" id="logo.png" media-type="image/png" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" />
+    <itemref idref="copyright_le.xhtml" />
+    <itemref idref="id25" />
+    <itemref idref="id26" />
+    <itemref idref="id27" />
+    <itemref idref="id28" />
+    <itemref idref="id29" />
+    <itemref idref="id30" />
+    <itemref idref="id31" />
+    <itemref idref="id32" />
+    <itemref idref="id33" />
+    <itemref idref="id342" />
+    <itemref idref="id341" />
+    <itemref idref="id35" />
+    <itemref idref="id36" />
+    <itemref idref="id37" />
+    <itemref idref="id38" />
+    <itemref idref="id39" />
+    <itemref idref="id40" />
+    <itemref idref="id41" />
+    <itemref idref="id42" />
+    <itemref idref="id43" />
+    <itemref idref="id44" />
+    <itemref idref="id45" />
+    <itemref idref="id46" />
+    <itemref idref="id47" />
+    <itemref idref="id48" />
+    <itemref idref="id49" />
+    <itemref idref="id50" />
+    <itemref idref="id51" />
+    <itemref idref="id52" />
+    <itemref idref="id53" />
+    <itemref idref="id54" />
+    <itemref idref="id55" />
+    <itemref idref="id56" />
+    <itemref idref="id57" />
+    <itemref idref="id58" />
+    <itemref idref="id59" />
+    <itemref idref="id60" />
+    <itemref idref="id61" />
+    <itemref idref="id62" />
+    <itemref idref="id63" />
+    <itemref idref="id64" />
+    <itemref idref="id65" />
+    <itemref idref="id66" />
+    <itemref idref="id67" />
+    <itemref idref="id68" />
+    <itemref idref="id69" />
+    <itemref idref="id70" />
+    <itemref idref="id71" />
+  </spine>
+  <guide>
+    <reference href="Text/part0000.html#start" title="start" type="text" />
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover" />
+    <reference href="Text/part0005.html" title="Sumário" type="toc" />
+  </guide>
+</package>

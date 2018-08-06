@@ -1,0 +1,38 @@
+[
+    {
+        "title" : "Accessible EPUB 3",
+        "author" : "Matt Garrish",
+        "coverHref" : "epub_content/accessible_epub_3/EPUB/covers/9781449328030_lrg.jpg",
+        
+        "rootUrl" : "epub_content/accessible_epub_3"
+    },
+    {
+        "title" : "Page Blanche",
+        "author" : "Boulet and Penelope Bagieu",
+        "coverHref" : "epub_content/page-blanche/EPUB/Image/cover.jpg",
+        
+        "rootUrl" : "epub_content/page-blanche"
+    },
+    {
+        "title" : "A First Course in Linear Algebra",
+        "author" : "Robert A. Beezer",
+        
+        "rootUrl" : "epub_content/linear-algebra"
+    },
+    {
+        "title" : "navigator.epubReadingSystem",
+        "author" : "Readium",
+        
+        "rootUrl" : "epub_content/epubReadingSystem"
+    },
+    {
+        "title" : "navigator.epubReadingSystem (zipped)",
+        "author" : "Readium",
+        "rootUrl" : "epub_content/epubReadingSystem.epub"
+    },
+    {
+        "title" : "packed EPUB",
+        "author" : "Readium",
+        "rootUrl" : "epub_content/internal_link.epub"
+    }
+]

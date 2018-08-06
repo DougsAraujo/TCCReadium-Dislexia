@@ -1,0 +1,52 @@
+#overlay {
+   display: none;	
+   top: 0;
+   left: 0;
+   height: 100%;
+   width: 100%;
+   z-index: 2147483640;
+   pointer-events: none;
+   position: fixed;
+   background-color: transparent; 
+}
+
+
+#previa_overlay {
+    font-size: 20px;  
+    border-width: thin; 
+    border-style: solid ;
+    border-color: #C0C0C0;
+}
+
+#overlay_p {
+    position: absolute; 
+    display: none; 
+    width: 100%; 
+    height: 100%; 
+    top: 0; 
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: transparent; 
+    z-index: 2; 
+    cursor: pointer; 
+}
+
+.ruler{
+  position: fixed;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.9) !important;
+  z-index: 9999999999;
+}
+
+#ruler-top {
+  top: 0;
+  left: 0;
+}
+
+#ruler-bottom {
+  bottom: 0;
+  left: 0;
+}
+
+
